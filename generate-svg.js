@@ -119,8 +119,8 @@ legendItems.forEach((item, i) => {
   legendSvg += `<text x="${x + 14}" y="${legendY + 9}" fill="#8b949e" font-family="monospace" font-size="9">${item.label}</text>`;
 });
 
-const titleText = 'nutracker';
-const statsText = `${didItDays} nuts in the last year`;
+const titleText = 'nutracker 🍆💦';
+const statsText = `i cummed ${didItDays} times in the last year`;
 const topText = topForWhat ? `top: ${formatForWhat(topForWhat[0])} (${topForWhat[1]}x)` : '';
 
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${svgWidth}" height="${svgHeight}" viewBox="0 0 ${svgWidth} ${svgHeight}">
